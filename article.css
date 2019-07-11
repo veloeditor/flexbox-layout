@@ -1,0 +1,13 @@
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.shop {
+    flex-basis: 26%;
+    justify-content: space-between;
+    /* align-content: space-evenly; */
+    border-style: solid;
+    border-width: 2px;
+}
